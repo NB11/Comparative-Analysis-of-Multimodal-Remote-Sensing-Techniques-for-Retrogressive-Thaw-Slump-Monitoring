@@ -25,7 +25,7 @@ The following workflow chart illustrates the steps involved in the data processi
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.12.2
 - Jupyter Notebook
 
 ## Required Python Packages
