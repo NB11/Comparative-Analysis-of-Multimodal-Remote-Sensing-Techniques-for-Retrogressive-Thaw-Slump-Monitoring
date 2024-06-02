@@ -27,9 +27,18 @@ The following workflow chart illustrates the steps involved in the data processi
 
 - Python 3.x
 - Jupyter Notebook
-- Required Python packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
+## Required Python Packages
+
+- numpy
+- pandas
+- geopandas
+- shapely
+- rasterio
+- matplotlib
+- seaborn
+- basemap
+- scipy
+- gdal
 
 
