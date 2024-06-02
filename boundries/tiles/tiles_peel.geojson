@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "tiles_peel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3413" } },
+"features": [
+{ "type": "Feature", "properties": { "tile_name": "tile_17_41_1_2" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2400000.0, 10000.0 ], [ -2400000.0, 20000.0 ], [ -2390000.0, 20000.0 ], [ -2390000.0, 10000.0 ], [ -2400000.0, 10000.0 ] ] ] } },
+{ "type": "Feature", "properties": { "tile_name": "tile_15_41_9_4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2520000.0, 30000.0 ], [ -2520000.0, 40000.0 ], [ -2510000.0, 40000.0 ], [ -2510000.0, 30000.0 ], [ -2520000.0, 30000.0 ] ] ] } },
+{ "type": "Feature", "properties": { "tile_name": "tile_15_41_10_4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2510000.0, 30000.0 ], [ -2510000.0, 40000.0 ], [ -2500000.0, 40000.0 ], [ -2500000.0, 30000.0 ], [ -2510000.0, 30000.0 ] ] ] } },
+{ "type": "Feature", "properties": { "tile_name": "tile_16_41_1_4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2500000.0, 30000.0 ], [ -2500000.0, 40000.0 ], [ -2490000.0, 40000.0 ], [ -2490000.0, 30000.0 ], [ -2500000.0, 30000.0 ] ] ] } },
+{ "type": "Feature", "properties": { "tile_name": "tile_15_41_9_3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2520000.0, 20000.0 ], [ -2520000.0, 30000.0 ], [ -2510000.0, 30000.0 ], [ -2510000.0, 20000.0 ], [ -2520000.0, 20000.0 ] ] ] } },
+{ "type": "Feature", "properties": { "tile_name": "tile_15_41_10_3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2510000.0, 20000.0 ], [ -2510000.0, 30000.0 ], [ -2500000.0, 30000.0 ], [ -2500000.0, 20000.0 ], [ -2510000.0, 20000.0 ] ] ] } },
+{ "type": "Feature", "properties": { "tile_name": "tile_16_41_9_3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2420000.0, 20000.0 ], [ -2420000.0, 30000.0 ], [ -2410000.0, 30000.0 ], [ -2410000.0, 20000.0 ], [ -2420000.0, 20000.0 ] ] ] } },
+{ "type": "Feature", "properties": { "tile_name": "tile_16_41_10_3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2410000.0, 20000.0 ], [ -2410000.0, 30000.0 ], [ -2400000.0, 30000.0 ], [ -2400000.0, 20000.0 ], [ -2410000.0, 20000.0 ] ] ] } },
+{ "type": "Feature", "properties": { "tile_name": "tile_17_41_1_3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2400000.0, 20000.0 ], [ -2400000.0, 30000.0 ], [ -2390000.0, 30000.0 ], [ -2390000.0, 20000.0 ], [ -2400000.0, 20000.0 ] ] ] } }
+]
+}
