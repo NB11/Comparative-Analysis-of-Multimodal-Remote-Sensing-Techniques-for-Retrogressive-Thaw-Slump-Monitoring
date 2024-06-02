@@ -27,42 +27,9 @@ The following workflow chart illustrates the steps involved in the data processi
 
 - Python 3.x
 - Jupyter Notebook
-- Required Python packages (listed in `requirements.txt`)
-
-### Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/retrogressive-thaw-slump-monitoring.git
-    cd retrogressive-thaw-slump-monitoring
-    ```
-
-2. Install the required Python packages:
-
+- Required Python packages:
     ```bash
     pip install -r requirements.txt
     ```
 
-### Usage
-
-1. Open Jupyter Notebook:
-
-    ```bash
-    jupyter notebook
-    ```
-
-2. Navigate to the `notebooks/` directory and open the desired notebook to start processing and analyzing the data.
-
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or feedback, please contact [your name] at [your email].
 
