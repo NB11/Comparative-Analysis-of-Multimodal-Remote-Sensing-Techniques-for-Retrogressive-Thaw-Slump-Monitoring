@@ -11,9 +11,9 @@ The following workflow chart illustrates the steps involved in the data processi
 ## Repository Structure
 
 - `notebooks/`: Contains the Jupyter Notebooks for data preparation and analysis.
-- `data/`: Includes the input data files (e.g., optical images, DEMs).
-- `output/`: Stores the processed GeoJSON files and other output data.
-- `images/`: Contains images used in the documentation (e.g., workflow charts).
+- `Processed_Labels/`: Contains the GeoJSON files of the combined processed Labels.
+- `RTS_labels_esults/`: Contains the processed labels for the individual methods and study areas.
+- `Boundaries/`: Contains the optical study area boundaries and the diff DEM study area boundaries.
 
 ## Notebooks
 
