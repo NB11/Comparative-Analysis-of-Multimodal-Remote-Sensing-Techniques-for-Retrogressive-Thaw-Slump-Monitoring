@@ -32,9 +32,8 @@ The following workflow chart illustrates the steps involved in the data processi
 13. [13_Analysis_EnvInfluence_Area.ipynb](13_Analysis_EnvInfluence_Area.ipynb)
 14. [14_Analysis_EnvInfluence_Shape.ipynb](14_Analysis_EnvInfluence_Shape.ipynb)
 
-## Getting Started
 
-### Prerequisites
+## Prerequisites
 
 - Python 3.12.2
 - Jupyter Notebook
