@@ -1,6 +1,6 @@
 # Comparative Analysis of Multimodal Remote Sensing Techniques for Retrogressive Thaw Slump Monitoring
 
-This repository contains Jupyter Notebooks used to process and analyze data from optical and Digital Elevation Model (DEM) remote sensing techniques for monitoring retrogressive thaw slumps. The code prepares the data so that the GeoJSON files from different monitoring methods can be compared more easily by calculating shape-specific metrics and appending them to the shapes found in the GeoJSON files.
+This repository contains Jupyter Notebooks used to process and analyze Remote Thaw Slump boundry shapes derived from optical and Elevation Model (DEM) data. The code prepares the data so that the GeoJSON files from the two different monitoring methods can be compared more easily.
 
 ## Overview
 
